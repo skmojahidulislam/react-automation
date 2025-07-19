@@ -7,7 +7,7 @@ const tools = [
     icon: '🌿',
   },
   {
-    name: 'Linux',
+    name: 'Linux 1',
     description: 'Command-line operating system for server management.',
     icon: '🐧',
   },
