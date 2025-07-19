@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-800">
       <header className="bg-blue-700 text-white p-6 text-center shadow-lg">
-        <h1 className="text-3xl font-bold">DevOps Tools Dashboard</h1>
+        <h1 className="text-3xl font-bold">DevOps Tools Dashboard & More</h1>
         <p className="text-sm mt-2">Explore the modern DevOps toolchain</p>
       </header>
 
